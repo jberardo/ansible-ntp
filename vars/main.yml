@@ -1,0 +1,7 @@
+
+# vars file for utils
+---
+ntp_dependencies:
+  - ntp
+  - tzdata
+  - ntpdate
