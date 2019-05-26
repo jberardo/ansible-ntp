@@ -20,7 +20,6 @@ See `defaults/main.yml`.
 
 `ntp_timezone`: Server timezone (type `timedatectl list-timezones` to see all time zones)
 
-NTP server area configuration
 `ntp_servers`: NTP servers to use (http://support.ntp.org/bin/view/Servers/NTPPoolServers)
 
 `ntp_restrict`: List of hosts to restrict NTP access.
