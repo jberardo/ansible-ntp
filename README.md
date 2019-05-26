@@ -2,10 +2,6 @@
 
 Installs NTP on Ubuntu.
 
-Two main tasks are:
-- Creation of personal user with ssh key, etc
-- Tries to remove apt lock files so other roles can use apt and not run into errors
-
 ## Requirements
 
 None.
